@@ -1,4 +1,4 @@
-![...](light.png|dark.png)
+
 # Welcome!
 
  
