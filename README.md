@@ -20,8 +20,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/pamelaotero2019/)
 
 ## Languages and Tools:
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/pamelaotero/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellenmas&layout=compact)](https://github.com/pamelaotero/github-readme-stats)
+<div>
+<a href="https://github.com/oamelaotero">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaotero-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelaotero-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 - Thanks for visiting.
 
