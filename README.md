@@ -1,5 +1,4 @@
-<div style="background-color:black; color: white;">
-
+![...](light.png|dark.png)
 # Welcome!
 
  
@@ -32,4 +31,4 @@
 
 - Enjoy it!! o/
  
- </div>
+ 
