@@ -32,6 +32,8 @@
 [![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)]()
 [![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)]()
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
 
 
 ## Languages and Tools:
