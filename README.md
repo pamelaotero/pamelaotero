@@ -13,8 +13,9 @@
 
 :outbox_tray: 2021 Goals: skills back-end🚀 
 
-_You will never find time for anything. Is you want time you must make it
-- Charles Buxton _
+### "You will never find time for anything. Is you want time you must make it
+#### - Charles Buxton"
+
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/pamelaotero) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaotero2019/)
