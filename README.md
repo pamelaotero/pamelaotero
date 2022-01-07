@@ -11,7 +11,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: skills back-end🚀 
+:outbox_tray: 2022 Goals: skills front-end 🚀 
 
 ### "You will never find time for anything. Is you want time you must make it
 #### - Charles Buxton"
