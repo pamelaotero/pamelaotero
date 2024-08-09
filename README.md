@@ -11,7 +11,6 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2023 Goals: skills front-end React, Redux, Design Patterns 🚀 
 
 ### "You will never find time for anything. Is you want time you must make it
 #### - Charles Buxton"
