@@ -1,57 +1,77 @@
+# Welcome to my Profile! 👋
 
-# Welcome!
+## Hi, I'm Pamela Otéro!
 
- 
+:computer: **Front-End Developer** passionate about creating intuitive and efficient user interfaces.
 
-## I'm Pamela Otéro!
+:house_with_garden: From the vibrant city of Manaus, Brazil.
 
-:computer: I'm Software Engineer!
+:books: Always curious and constantly learning new technologies.
 
-:house_with_garden: I’m from Brazil.
+### 🌟 *"You will never find time for anything. If you want time, you must make it."*  
+#### — Charles Buxton
 
-:books: I’m currently learning everything.
+---
 
+## About Me
 
-### "You will never find time for anything. Is you want time you must make it
-#### - Charles Buxton"
+I have over **5 years of experience** in software development, with expertise in **front-end engineering**. I thrive on building **responsive interfaces**, integrating with APIs, and ensuring code quality through tools like **Cypress** and **Sonar**. I enjoy solving complex problems and collaborating in dynamic teams. Let's create something amazing together!
 
-## About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaotero2019/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pamelaotero)
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/pamelaotero) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaotero2019/)
+---
 
-## Skills
+## My Skills
 
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-[![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![MAKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+### Front-End Development:
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()  
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()  
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+### Tools & Platforms:
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()  
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)]()  
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)]()
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
+### Back-End Development:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()  
+[![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-[![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)]()
-[![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)]()
+### Monitoring & Analytics:
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)]()  
+[![ApexCharts](https://img.shields.io/badge/ApexCharts-FF4560?style=for-the-badge&logo=apexcharts&logoColor=white)]()
 
-## Languages and Tools:
+---
+
+## GitHub Stats
+
 <div>
-<a href="https://github.com/pamelaotero">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaotero&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelaotero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelaotero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaotero&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- Thanks for visiting.
+---
 
-- Enjoy it!! o/
- 
- 
+## Hobbies
+
+🥋 Practicing martial arts  
+🌍 Exploring local tourist spots  
+👩‍💻 Sharing knowledge through tech talks  
+
+---
+
+🐍 *Enjoy this fun snake animation!*  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
- 
+---
+
+### Let's Connect!
+
+Feel free to reach out for collaboration, knowledge-sharing, or a friendly chat.  
+🚀 *Let's build the future together!*
