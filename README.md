@@ -15,7 +15,7 @@
 
 ## About Me
 
-I have over **5 years of experience** in software development, with expertise in **front-end engineering**. I thrive on building **responsive interfaces**, integrating with APIs, and ensuring code quality through tools like **Cypress** and **Sonar**. I enjoy solving complex problems and collaborating in dynamic teams. Let's create something amazing together!
+I have over **6 years of experience** in software development, with expertise in **front-end engineering**. I thrive on building **responsive interfaces**, integrating with APIs, and ensuring code quality through tools like **Cypress** and **Sonar**. I enjoy solving complex problems and collaborating in dynamic teams. Let's create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaotero2019/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pamelaotero)
 
