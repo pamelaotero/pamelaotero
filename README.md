@@ -58,8 +58,9 @@ I have over **6 years of experience** in software development, with expertise in
 
 ---
 
-🐍 *Enjoy this fun snake animation!*  
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+*my private professional repository*
+![image](https://github.com/user-attachments/assets/1dfb7097-ce6b-40aa-b9f3-3d4da294b25e)
+
 
 ---
 
