@@ -2,6 +2,7 @@
 
 ## Hi, I'm Pamela Otéro!
 
+* My first contact with programming was in 2014 when I took my first programming course in which the language was Pascal and later Javascript, HTML and CSS
 :computer: **Front-End Developer** passionate about creating intuitive and efficient user interfaces.
 
 :house_with_garden: From the vibrant city of Manaus, Brazil.
